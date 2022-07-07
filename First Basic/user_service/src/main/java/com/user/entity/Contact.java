@@ -15,7 +15,7 @@ public class Contact {
     }
 
     public Contact() {}
-    
+
     public Long getcId() {
         return cId;
     }
