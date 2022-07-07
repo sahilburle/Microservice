@@ -1,0 +1,4 @@
+user-service:
+	port 9001
+
+	/user/id
